@@ -1,2 +1,6 @@
-# Aprendizado-de-Maquina-Machine-Learning-
-Atividades que desenvolvi durante á participação do Bootcamp Dio
+
+## 🌏 Machine Learning (Azure)  - Gabriel Rebouças
+
+### 1 - Crie uma conta no [Portal Azure](https://azure.microsoft.com/) 
+### 2 - Escolha o Recurso "Machine Learning"
+
