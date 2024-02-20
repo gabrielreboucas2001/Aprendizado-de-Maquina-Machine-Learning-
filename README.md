@@ -6,4 +6,4 @@
 
 ### 3 - Configure e finalize a criação da Maquina.
 
-### 4 - Após chegou a hora de consultar a [Documentação](https://microsoftlearning.github.io/AI-900-AIFundamentals.pt-BR/Instructions/02-module-02.html)  e seguir as instruções determinadas.
+### 4 - Após isso, agora vamos consultar a [Documentação](https://microsoftlearning.github.io/AI-900-AIFundamentals.pt-BR/Instructions/02-module-02.html)  e seguir as instruções determinadas.
